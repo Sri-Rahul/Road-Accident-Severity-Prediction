@@ -126,16 +126,12 @@ The project includes various visualizations:
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Authors
-- [Your Name]
+- _srirahul_
 
 ## 📮 Contact
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- GitHub: [\My Profile\]](https://github.com/Sri-Rahul)
 
 ## 🙏 Acknowledgments
-- Road Accident Severity in India dataset contributors
+- Road Accident Severity in India dataset contributors - [Dataset](https://www.kaggle.com/datasets/kanuriviveknag/road-accidents-severity-dataset)
 - Special thanks to all researchers and organizations working on road safety improvement
