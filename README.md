@@ -113,6 +113,7 @@ pip install pandas scikit-learn imbalanced-learn seaborn matplotlib numpy
 2. Ensure your dataset is in the correct path
 3. Run the main script:
 ```python
+cd  /Accident_Severity
 python accident_severity_prediction.py
 ```
 
